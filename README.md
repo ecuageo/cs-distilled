@@ -9,7 +9,7 @@
 
 ## Algorithms & Data Structures
 
-### Lists, Trees
+### [Lists](Lists.md), Trees
 ### Search & Sorting
 ### Big O & others
 ### Analysis Strategies
