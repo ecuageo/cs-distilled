@@ -9,7 +9,8 @@
 
 ## Algorithms & Data Structures
 
-### [Lists](Lists.md), Trees
+### [Lists](algorithms-and-data-structures/Lists.md)
+### Trees
 ### Search & Sorting
 ### Big O & others
 ### Analysis Strategies

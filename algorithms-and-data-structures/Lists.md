@@ -31,3 +31,6 @@ Overflow concerns:
 Solutions:
 
 The queue will have a fairly limited size. Even with an adequate size the queue will move forward in its address spaces. As the rear address meets the end of the allocated address, it (rear address) can be moved to the front of the allocated spaces. Essentialy the queue will wrap around (assuming there unused address - the queue isn't full). When inserting an element the pointer will need to take this strategy into consideration.
+
+### Linked List Allocation
+
